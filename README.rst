@@ -22,7 +22,7 @@ GitHub-Flask is available on PyPI:
 Usage
 -----
 
-An example application is provided. Getting it up and running should be pretty
+An example application is PROvided. Getting it up and running should be pretty
 straightforward. Edit example.py and change ``GITHUB_CLIENT_ID`` and
 ``GITHUB_CLIENT_SECRET`` settings. Then run the sample application to see how
 it's working:
